@@ -22,7 +22,7 @@ e Prazo de Pagamento (uma lista suspensa com opções como À Vista, Cinco Vezes
 
 
 <h3>3º passo</h3>
-Utilize as tags <form>, <input>, <label>, <select>, <option>, <fieldset> e <textarea> para criar o formulário e seus campos.
+Utilize as tags form, input, label, select, option, fieldset e <textarea> para criar o formulário e seus campos.
 
 
 <h3>4º passo </h3>
